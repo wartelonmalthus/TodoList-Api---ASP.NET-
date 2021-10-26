@@ -9,6 +9,8 @@ Tecnologia usada:
  - Entity FrameworkCore
  - AspNetcore.MVC
  - Sqlite 
+ - ComponentModel.DataAnnotations;(para as propriedades required)
+ - Threading.Tasks(para metodos assincronos) 
  
 
 
