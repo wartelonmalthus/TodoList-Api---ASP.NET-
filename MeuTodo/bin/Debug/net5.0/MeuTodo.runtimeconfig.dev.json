@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wartelon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wartelon\\.nuget\\packages"
+    ]
+  }
+}
